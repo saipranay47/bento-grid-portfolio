@@ -21,7 +21,7 @@ ____
 1. Clone the repository
 2. Install the dependencies
 3. Start the development server
-4. Open `http://localhost:3000` in your browser
+4. Open `http://localhost:5173` in your browser
 
 ### Customization
 
